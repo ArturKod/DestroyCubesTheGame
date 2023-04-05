@@ -1,0 +1,21 @@
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    font-size: 45px;
+    border: 5px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 100px;
+    left: 0px;
+    transition: 3s;
+  }
+  .header {
+    display: flex;
+    justify-content: space-around;
+    background-color: antiquewhite;
+    height: 70px;
+  }
